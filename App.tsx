@@ -487,7 +487,7 @@ export default function App() {
           >
             <div className="max-w-2xl text-center space-y-8">
               <div className="w-40 h-40 bg-[#FAF9F6]/60 rounded-full mx-auto flex items-center justify-center shadow-2xl mb-8">
-                <img src="/hive-mind-logo.png" alt="Hive Mind Logo" className="w-40 h-40 text-stone-900" />
+                <img src="hive-mind-logo.png" alt="Hive Mind Logo" className="w-40 h-40 text-stone-900" />
               </div>
               
               <div className="space-y-2">
