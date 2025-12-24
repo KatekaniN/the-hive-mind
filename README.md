@@ -1,6 +1,4 @@
-# The Hive Mind 🐝
-
-> **"I view code as a living system."**
+# The Hive Mind 
 
 An experimental, non-linear developer portfolio for **Katekani Nyamandi**.
 
